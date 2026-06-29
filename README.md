@@ -1,4 +1,4 @@
-# KofiShop Landing Page ☕
+# KofiShop ☕
 
 ## Overview
 
@@ -31,10 +31,9 @@ The website is fully responsive and adapts seamlessly to desktops, tablets, and 
 ## Project Structure
 
 KofiShop-Landing-Page/
-│
 ├── index.html
 ├── style.css
-└── assets
+└── image
 
 ## How to Run the Project
 
