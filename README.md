@@ -6,6 +6,7 @@ KofiShop Landing Page is a modern and responsive coffee shop website designed us
 
 The website is fully responsive and adapts seamlessly to desktops, tablets, and mobile devices.
 
+
 <img width="1905" height="898" alt="Screenshot (722)" src="https://github.com/user-attachments/assets/61456631-f873-4acf-8c4b-27021ed9fbe4" />
 
 ## Features
